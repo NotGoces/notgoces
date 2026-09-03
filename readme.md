@@ -51,8 +51,11 @@ I love understanding not only how a product looks but also how it functions unde
 
 ---
 
+---
+
 ### 📂 Featured Projects
 
+*   **[Clínica Dental Pablo Varela](https://www.clinicadentalpablovarela.com/):** Fullstack & end-to-end medical web platform and blog focused on SEO and performance. Built with **Astro**, **Sanity CMS**, and **TypeScript**, with automated deployment (CI/CD) on **Vercel**.
 *   **[Personal Web Resume / Portfolio](https://github.com/NotGoces/cv):** This interactive, multilingual portfolio built using **React, Next.js, and TypeScript**. Designed with a modern UI and tailored responsive design.
 *   **[Inventory & Vending Management App](https://github.com/NotGoces/Maquinas):** A personal operations project created to streamline inventory, keep accounting, and manage vending machine logistics.
 *   **[GCC Token](https://bscscan.com/token/0x9d6cF9CD0a28fbbC954C253AF6d870E6407909c3):** A Web3/Blockchain project deployed on the BSC blockchain, featuring a BEP-20 payment token, custom Smart Contracts, and NFTs.
